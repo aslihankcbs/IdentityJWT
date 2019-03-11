@@ -1,4 +1,5 @@
 # IdentityJWT
 
-ASP.NET Core 2.1 üzerinde oluşturulmuştur.
-JWT ile kimlik doğrulama.
+This project is currently in development.
+
+Authentication with JWT.
