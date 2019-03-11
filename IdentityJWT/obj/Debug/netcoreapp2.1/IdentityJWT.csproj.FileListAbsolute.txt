@@ -1,0 +1,15 @@
+D:\MST\MyProject\IdentityJWT\IdentityJWT\bin\Debug\netcoreapp2.1\IdentityJWT.deps.json
+D:\MST\MyProject\IdentityJWT\IdentityJWT\bin\Debug\netcoreapp2.1\IdentityJWT.runtimeconfig.json
+D:\MST\MyProject\IdentityJWT\IdentityJWT\bin\Debug\netcoreapp2.1\IdentityJWT.runtimeconfig.dev.json
+D:\MST\MyProject\IdentityJWT\IdentityJWT\bin\Debug\netcoreapp2.1\IdentityJWT.dll
+D:\MST\MyProject\IdentityJWT\IdentityJWT\bin\Debug\netcoreapp2.1\IdentityJWT.pdb
+D:\MST\MyProject\IdentityJWT\IdentityJWT\obj\Debug\netcoreapp2.1\IdentityJWT.csproj.CoreCompileInputs.cache
+D:\MST\MyProject\IdentityJWT\IdentityJWT\obj\Debug\netcoreapp2.1\IdentityJWT.RazorAssemblyInfo.cache
+D:\MST\MyProject\IdentityJWT\IdentityJWT\obj\Debug\netcoreapp2.1\IdentityJWT.RazorAssemblyInfo.cs
+D:\MST\MyProject\IdentityJWT\IdentityJWT\obj\Debug\netcoreapp2.1\IdentityJWT.AssemblyInfoInputs.cache
+D:\MST\MyProject\IdentityJWT\IdentityJWT\obj\Debug\netcoreapp2.1\IdentityJWT.AssemblyInfo.cs
+D:\MST\MyProject\IdentityJWT\IdentityJWT\obj\Debug\netcoreapp2.1\IdentityJWT.RazorTargetAssemblyInfo.cache
+D:\MST\MyProject\IdentityJWT\IdentityJWT\obj\Debug\netcoreapp2.1\IdentityJWT.dll
+D:\MST\MyProject\IdentityJWT\IdentityJWT\obj\Debug\netcoreapp2.1\IdentityJWT.pdb
+D:\MST\MyProject\IdentityJWT\IdentityJWT\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+D:\MST\MyProject\IdentityJWT\IdentityJWT\obj\Debug\netcoreapp2.1\IdentityJWT.csprojAssemblyReference.cache
